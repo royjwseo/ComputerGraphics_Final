@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\서정원\Desktop\computer_graphics\basicglsl\Final_Project\Game.cpp(275,32): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\서정원\Desktop\computer_graphics\basicglsl\Final_Project\Game.cpp(276,32): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\서정원\Desktop\computer_graphics\basicglsl\Final_Project\Game.cpp(277,32): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\서정원\Desktop\computer_graphics\basicglsl\Final_Project\Game.cpp(665,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\서정원\Desktop\computer_graphics\basicglsl\Final_Project\Game.cpp(729,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Final_Project.vcxproj -> C:\Users\서정원\Desktop\computer_graphics\basicglsl\Debug\Final_Project.exe
