@@ -1,3 +1,4 @@
+2022.2학기 OpenGl Graphics Project 2인 개발
 ![image](https://github.com/user-attachments/assets/8fd6c707-3bcc-426b-98e6-1bdd5d267ca3)
 ![image](https://github.com/user-attachments/assets/81427b6a-b8c4-4537-a1bc-b5bd2a61c372)
 ![image](https://github.com/user-attachments/assets/cc3bdf46-7b44-44c7-b348-eb45bc27e02b)
